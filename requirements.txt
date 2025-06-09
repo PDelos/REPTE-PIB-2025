@@ -1,0 +1,14 @@
+# Jupyter Notebook support
+notebook
+ipykernel
+
+# Core libraries
+numpy
+opencv-python
+matplotlib
+scikit-image
+scikit-learn
+
+# UNET
+torch
+torchvision
