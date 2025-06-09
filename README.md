@@ -19,6 +19,7 @@ REPTE-PIB/
 ├── requirements.txt            # Dependències de Python
 ├── Repte.pdf                   # Especificació del projecte
 ├── figures/                    # Conjunt de figures pel projecte
+├── video/                      # Video i presentacio del projecte
 ├── code/                       # Codi font
 │   ├── preprocessat.ipynb      # Pipeline de preprocessament d'imatges
 │   ├── segmentation.ipynb      # Comparació de mètodes de segmentació
