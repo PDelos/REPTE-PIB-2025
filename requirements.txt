@@ -4,6 +4,7 @@ ipykernel
 
 # Core libraries
 numpy
+pandas
 opencv-python
 matplotlib
 scikit-image
